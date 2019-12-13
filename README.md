@@ -15,9 +15,9 @@ so that I have quick access to emails and GitHub profiles.
 5. Select Exit from the menu when all employees have been entered
 6. Open the team.html file to view the output
 # Screenshots
-![image](https://user-images.githubusercontent.com/55209230/70760139-5588d580-1d0e-11ea-8a16-51c90b36e9e4.png)
-
 ![image](https://user-images.githubusercontent.com/55209230/70760103-31c58f80-1d0e-11ea-93c8-2cd959d7b2fc.png)
+
+![image](https://user-images.githubusercontent.com/55209230/70760139-5588d580-1d0e-11ea-8a16-51c90b36e9e4.png)
 
 ![image](https://user-images.githubusercontent.com/55209230/70760210-9254cc80-1d0e-11ea-99af-cc18950896d1.png)
 
