@@ -1,6 +1,7 @@
 # Team-Profile-Generator
 A team generator command line application.
 build a Node CLI that takes in information about employees and generates an HTML webpage that displays summaries for each person.
+
 Live site here : https://amira07hafnaoui.github.io/Team-Profile-Generator/output/team.html
 
 ## User Story 
