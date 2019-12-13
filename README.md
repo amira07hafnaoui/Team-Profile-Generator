@@ -19,7 +19,7 @@ so that I have quick access to emails and GitHub profiles.
 
 ![image](https://user-images.githubusercontent.com/55209230/70760139-5588d580-1d0e-11ea-8a16-51c90b36e9e4.png)
 
-![image](https://user-images.githubusercontent.com/55209230/70760210-9254cc80-1d0e-11ea-99af-cc18950896d1.png)
+![image](https://user-images.githubusercontent.com/55209230/70760558-9c2aff80-1d0f-11ea-8d77-09b908589999.png)
 
 ## Testing
 Jest was used to for running the provided tests
