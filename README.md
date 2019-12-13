@@ -2,7 +2,7 @@
 A team generator command line application.
 build a Node CLI that takes in information about employees and generates an HTML webpage that displays summaries for each person.
 
-## User Story
+## User Story 
 As a manager
 I want to generate a webpage that displays my team's basic info
 so that I have quick access to emails and GitHub profiles.
@@ -22,7 +22,7 @@ so that I have quick access to emails and GitHub profiles.
 ![image](https://user-images.githubusercontent.com/55209230/70760558-9c2aff80-1d0f-11ea-8d77-09b908589999.png)
 
 ## Testing
-Jest was used to for running the provided tests
+Jest was used to for running the provided tests.
 Use 'npm run test' to run the tests
 
 ## Directory structure
