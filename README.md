@@ -25,18 +25,27 @@ so that I have quick access to emails and GitHub profiles.
 
 ## Testing
 Jest was used to for running the provided tests.
+
 Use 'npm run test' to run the tests
 
 ## Directory structure
 directory structure :
-lib/           // classes and helper code
-output/        // rendered HTML file
-test/          // jest tests
+lib/   --->  // classes and helper code
+
+output/     --->     // rendered HTML file
+
+test/      --->      // jest tests
+
   Employee.test.js
+  
   Engineer.test.js
+  
   Intern.test.js
+  
   Manager.test.js
-app.js         // Runs the application
+  
+app.js   --->   // Runs the application
+
 
 ## Licence 
 MIT.
